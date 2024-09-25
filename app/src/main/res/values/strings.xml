@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartDemo</string>
+    <!-- 下方添加的字符串定义代码 -->
+    <string name="app_exit">退出应用</string>
+    <string name="link1">规则：联动选择后，温度大于开启值时，自动开启空调;温度正常，自动关闭空调</string>
+    <string name="link2">规则：联动选择后，光照小于开启值时，自动开启调光灯;光照正常，自动关闭调光灯</string>
+
+</resources>

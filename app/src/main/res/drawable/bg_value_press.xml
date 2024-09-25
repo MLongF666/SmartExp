@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/background_disable_corner" android:state_enabled="false" />
+    <item android:drawable="@drawable/background_valuereverse_corner" android:state_pressed="true" />
+    <item android:drawable="@drawable/background_value_corner" android:state_pressed="false" />
+
+</selector>
